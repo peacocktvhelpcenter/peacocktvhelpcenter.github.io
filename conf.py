@@ -11,9 +11,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Set Up Your VIZIO Smart TV'
-copyright = '2025, VIZIO Inc.'
-author = 'VIZIO Support Team'
+project = 'Connecting Your TV to Your Peacocktv'
+copyright = '2025, Peacocktv.'
+author = 'Peacocktv customer support'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -21,10 +21,10 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "Set Up Your VIZIO Smart TV – vizio.com/setup Guide"
+html_title = "How to Enter Code on Peacock TV Step by Step Guide – Visit www.peacocktv.com tv"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "VIZIO TV Setup"
+html_short_title = "www.peacocktv.com tv login"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
