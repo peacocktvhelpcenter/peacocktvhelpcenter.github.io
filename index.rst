@@ -3,10 +3,17 @@ How to Enter Code on Peacock TV Step by Step Guide – Visit www.peacocktv.com t
 
 Trying to watch Peacock TV? This guide shows you how to get your shows to play on your TV. Just go to www.peacocktv.com tv. That's the place to start. Think of it as the front door to all the movies and shows you wanna see. once you're there, follow the steps we show you. Let's do this together, one step at a time. You'll be watching your favorite shows super soon.
 
-.. image:: get.png
-   :alt: Official website of peacocktv is www.peacocktv.com tv
-   :target: 
+.. raw:: html
 
+    <div style="text-align: center; margin: 30px 0;">
+
+.. image:: get.png
+   :alt: www.peacocktv.com tv
+   :target: https://fm.ci?aHR0cHM6Ly9wZWFjb2NrdHZoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+ 
+.. raw:: html
+
+    </div>
 
 
 
