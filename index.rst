@@ -17,7 +17,7 @@ Trying to watch Peacock TV? This guide shows you how to get your shows to play o
 
 
 
-**Step by Step Guide To Create A Account On www.peacocktv.com tv**
+**Step by Step Guide To Create A Account On wwwpeacocktv.com tv**
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Skip this step if you already have an account.
